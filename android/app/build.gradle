@@ -43,8 +43,8 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.example.todo_app"
-        minSdkVersion flutter.minSdkVersion
+        applicationId "com.example.todoapp"
+        minSdkVersion 19
         targetSdkVersion flutter.targetSdkVersion
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName
